@@ -1,0 +1,47 @@
+name: "LOA36_X36"
+ext: "rpgle"
+interpreter: "jariko"
+---
+name: "*SCO"
+ext: ""
+interpreter: "*SCO"
+---
+name: "LOSER_09"
+ext: ""
+interpreter: "LOSER_09"
+---
+name: "UPP_X36"
+ext: "txt"
+interpreter: "SCP"
+---
+name: "SCRIPTX36"
+ext: "js"
+interpreter: "JS_interpreter"
+---
+name: "MUTE11_10"
+ext: "rpgle"
+interpreter: "jariko"
+---
+name: "CALCFIB"
+ext: "rpgle"
+interpreter: "jariko"
+---
+name: "HELLO"
+ext: "rpgle"
+interpreter: "jariko"
+---
+name: "MUTE11_11B"
+ext: "rpgle"
+interpreter: "jariko"
+---
+name: "MUTE11_10A"
+ext: "rpgle"
+interpreter: "jariko"
+---
+name: "BM_DOMO"
+ext: ""
+interpreter: "WebService"
+---
+name: "B£_063_02"
+ext: ""
+interpreter: "B£_063_02"

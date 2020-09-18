@@ -1,0 +1,14 @@
+V* ==============================================================
+V* MODIFICHE Ril.  T Au Descrizione
+V* gg/mm/aa  nn.mm i xx Breve descrizione
+V* ==============================================================
+V* 12/11/18  V5R1    CM Check-out 000196 in SMEDEV
+V* 03/08/20  BUSFIO  BF Box per Collaboratore
+V* ==============================================================
+::Sez Pos="A" Dim="30%"
+    ::Fld Nam="XXICOL" Ogg="J4IMG" cmp="Img" Txt="Immagini Collaboratore"
+::Sez Pos="B" Dim="Auto"
+ ::Sez Pos="B1" Dim="45%"
+    ::Fld Nam="XXNCOL" Ogg="CNCOL" Txt="Nome Collaboratore"
+ ::Sez Pos="B2" Dim="45%"
+    ::Fld Nam="XXTPRN" Ogg="" Txt="Tipo Posto"
